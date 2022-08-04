@@ -2,7 +2,7 @@
 name = "random-quote-generator"
 version = "0.1.0"
 description = "Random Quote Generator"
-authors = ["Abhishek.kumar.singh@mcafee.com"]
+authors = ["Abhishek Kumar Singh <Abhishek.kumar.singh@mcafee.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
